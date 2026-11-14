@@ -1,9 +1,4 @@
 # KarbonADB
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/byteful0xFF/KarbonADB/refs/heads/main/KarbonADB.svg" alt="KarbonADB logo" width="600">
-</p>
-
 <p align="center">
  <img src="https://img.shields.io/badge/Karbon-ADB-green" alt="KarbonADB logo" width="600">
 </p>
