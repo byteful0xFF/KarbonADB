@@ -4,6 +4,10 @@
  <img src="https://raw.githubusercontent.com/byteful0xFF/KarbonADB/refs/heads/main/KarbonADB.svg" alt="KarbonADB logo" width="600">
 </p>
 
+<p align="center">
+ <img src="https://img.shields.io/badge/Karbon-ADB-green" alt="KarbonADB logo" width="600">
+</p>
+
 A TurboWarp (scratch mod) extension that lets your project talk to a Meta Quest (or any Android device) over **ADB on TCP/IP**: run shell commands, manage files and folders, install APKs, and read or write system properties, all from blocks.
 
 > **Status:** experimental. The ADB protocol, auth and sync layers are implemented from scratch and have not been widely tested. Expect rough edges.
